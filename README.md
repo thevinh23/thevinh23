@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>hehe</p>
+
+# Social
+[Discord](https://discord.com/users/970710403917176892)
